@@ -1,4 +1,4 @@
-package com.atguigu.chapter04.mydowhile
+package com.ljj.chapter04.mydowhile
 
 object Demo01 {
   def main(args: Array[String]): Unit = {

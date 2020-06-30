@@ -1,4 +1,4 @@
-package com.atguigu.chapter15.customercrm.bean
+package com.ljj.chapter15.customercrm.bean
 
 class Customer {
 

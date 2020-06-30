@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.observer.observepattern
+package com.ljj.chapter17.observer.observepattern
 
 import scala.collection.mutable.ListBuffer
 

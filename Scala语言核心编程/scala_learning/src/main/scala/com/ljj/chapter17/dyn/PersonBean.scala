@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.dyn
+package com.ljj.chapter17.dyn
 
 //这个就是我们的Subject(是一个trait/Java中interface)
 trait PersonBean {

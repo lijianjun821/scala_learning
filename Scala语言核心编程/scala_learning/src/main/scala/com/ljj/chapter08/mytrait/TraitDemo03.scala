@@ -1,4 +1,4 @@
-package com.atguigu.chapter08.mytrait
+package com.ljj.chapter08.mytrait
 
 object TraitDemo03 {
   def main(args: Array[String]): Unit = {

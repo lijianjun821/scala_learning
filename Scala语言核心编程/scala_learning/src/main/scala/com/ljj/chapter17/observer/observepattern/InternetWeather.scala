@@ -1,6 +1,6 @@
-package com.atguigu.chapter17.observer.observepattern
+package com.ljj.chapter17.observer.observepattern
 
-import com.atguigu.chapter17.observer.localinternetobserver.WeatherData
+import com.ljj.chapter17.observer.localinternetobserver.WeatherData
 
 object InternetWeather {
   def main(args: Array[String]): Unit = {

@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.factorymethod.pizzastore.pizza
+package com.ljj.chapter17.factorymethod.pizzastore.pizza
 
 abstract class Pizza {
 

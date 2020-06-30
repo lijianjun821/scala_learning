@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.rmi
+package com.ljj.chapter17.rmi
 
 import java.rmi.{Remote, RemoteException}
 

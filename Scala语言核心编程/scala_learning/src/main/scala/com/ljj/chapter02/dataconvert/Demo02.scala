@@ -1,4 +1,4 @@
-package com.atguigu.chapter02.dataconvert
+package com.ljj.chapter02.dataconvert
 
 object Demo02 {
   def main(args: Array[String]): Unit = {

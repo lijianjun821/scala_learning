@@ -1,4 +1,4 @@
-package com.atguigu.chapter04.ifesle
+package com.ljj.chapter04.ifesle
 
 import scala.io.StdIn
 

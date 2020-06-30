@@ -1,4 +1,4 @@
-package com.atguigu.chapter03.assignoper
+package com.ljj.chapter03.assignoper
 
 object Demo01 {
   def main(args: Array[String]): Unit = {

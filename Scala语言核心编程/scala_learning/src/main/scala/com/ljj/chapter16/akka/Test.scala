@@ -1,4 +1,4 @@
-package com.atguigu.chapter16.akka
+package com.ljj.chapter16.akka
 
 class Test {
 

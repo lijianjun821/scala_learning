@@ -1,4 +1,4 @@
-package com.atguigu.chapter05.myexception
+package com.ljj.chapter05.myexception
 
 object ScalaExceptionDemo {
   def main(args: Array[String]): Unit = {

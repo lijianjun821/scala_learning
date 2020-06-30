@@ -1,4 +1,4 @@
-package com.atguigu.chapter05.recursive
+package com.ljj.chapter05.recursive
 
 object Demo01 {
   def main(args: Array[String]): Unit = {

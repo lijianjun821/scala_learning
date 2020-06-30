@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.remotecandymachine.server
+package com.ljj.chapter17.remotecandymachine.server
 
 //销售完的状态
 class SoldOutState extends State {

@@ -1,6 +1,6 @@
-package com.atguigu.chapter15.customercrm.app
+package com.ljj.chapter15.customercrm.app
 
-import com.atguigu.chapter15.customercrm.view.CustomerView
+import com.ljj.chapter15.customercrm.view.CustomerView
 
 object CustomerCrm {
   def main(args: Array[String]): Unit = {

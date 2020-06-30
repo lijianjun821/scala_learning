@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.dyn
+package com.ljj.chapter17.dyn
 
 object MainTest {
   def main(args: Array[String]): Unit = {

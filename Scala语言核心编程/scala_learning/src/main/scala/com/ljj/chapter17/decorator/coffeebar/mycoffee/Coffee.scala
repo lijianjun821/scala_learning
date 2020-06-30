@@ -1,6 +1,6 @@
-package com.atguigu.chapter17.decorator.coffeebar.mycoffee
+package com.ljj.chapter17.decorator.coffeebar.mycoffee
 
-import com.atguigu.chapter17.decorator.coffeebar.Drink
+import com.ljj.chapter17.decorator.coffeebar.Drink
 
 
 //在Drink 和  单品咖啡，我做了一个缓冲层

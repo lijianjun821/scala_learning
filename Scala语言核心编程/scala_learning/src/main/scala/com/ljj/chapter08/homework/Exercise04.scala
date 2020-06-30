@@ -1,4 +1,4 @@
-package com.atguigu.chapter08.homework
+package com.ljj.chapter08.homework
 
 object Exercise04 {
   def main(args: Array[String]): Unit = {

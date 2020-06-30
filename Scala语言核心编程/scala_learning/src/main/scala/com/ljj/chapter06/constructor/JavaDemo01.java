@@ -1,4 +1,4 @@
-package com.atguigu.chapter06.constructor;
+package com.ljj.chapter06.constructor;
 
 public class JavaDemo01 {
     public static void main(String[] args) {

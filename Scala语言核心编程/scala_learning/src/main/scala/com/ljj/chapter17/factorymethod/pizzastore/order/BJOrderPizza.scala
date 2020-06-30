@@ -1,6 +1,6 @@
-package com.atguigu.chapter17.factorymethod.pizzastore.order
+package com.ljj.chapter17.factorymethod.pizzastore.order
 
-import com.atguigu.chapter17.factorymethod.pizzastore.pizza.{BJCheesePizza, BJPepperPizza, Pizza}
+import com.ljj.chapter17.factorymethod.pizzastore.pizza.{BJCheesePizza, BJPepperPizza, Pizza}
 
 class BJOrderPizza extends OrderPizza {
 

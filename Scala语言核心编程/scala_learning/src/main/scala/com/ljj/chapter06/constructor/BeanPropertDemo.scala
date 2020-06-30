@@ -1,4 +1,4 @@
-package com.atguigu.chapter06.constructor
+package com.ljj.chapter06.constructor
 
 import scala.beans.BeanProperty
 

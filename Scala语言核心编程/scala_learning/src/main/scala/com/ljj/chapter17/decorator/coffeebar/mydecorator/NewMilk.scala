@@ -1,6 +1,6 @@
-package com.atguigu.chapter17.decorator.coffeebar.mydecorator
+package com.ljj.chapter17.decorator.coffeebar.mydecorator
 
-import com.atguigu.chapter17.decorator.coffeebar.Drink
+import com.ljj.chapter17.decorator.coffeebar.Drink
 
 
 

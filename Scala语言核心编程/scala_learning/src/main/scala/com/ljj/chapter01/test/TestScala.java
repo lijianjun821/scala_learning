@@ -1,4 +1,4 @@
-package com.atguigu.chapter01.test;
+package com.ljj.chapter01.test;
 
 //我们可以理解scala 在运行时，做了一个包装.
 public class TestScala {

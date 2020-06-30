@@ -1,4 +1,4 @@
-package com.atguigu.chapter01
+package com.ljj.chapter01
 
 //只要以后看到有 object TestScala ，你应该有这样一个认识
 //1. object TestScala 对应的是一个  TestScala$的一个静态对象 MODULE$

@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.observer.localinternetobserver
+package com.ljj.chapter17.observer.localinternetobserver
 
 //气象局的天气公告板
 class CurrentConditions {

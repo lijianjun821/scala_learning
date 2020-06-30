@@ -1,4 +1,4 @@
-package com.atguigu.chapter08.mixin
+package com.ljj.chapter08.mixin
 
 object MixInDemo01 {
   def main(args: Array[String]): Unit = {

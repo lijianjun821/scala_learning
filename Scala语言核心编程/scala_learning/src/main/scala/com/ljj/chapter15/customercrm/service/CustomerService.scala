@@ -1,6 +1,6 @@
-package com.atguigu.chapter15.customercrm.service
+package com.ljj.chapter15.customercrm.service
 
-import com.atguigu.chapter15.customercrm.bean.Customer
+import com.ljj.chapter15.customercrm.bean.Customer
 
 import scala.collection.mutable.ArrayBuffer
 import util.control.Breaks._

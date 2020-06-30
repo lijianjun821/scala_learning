@@ -1,4 +1,4 @@
-package com.atguigu.chapter01.vars
+package com.ljj.chapter01.vars
 
 object VarDemo01 {
   def main(args: Array[String]): Unit = {

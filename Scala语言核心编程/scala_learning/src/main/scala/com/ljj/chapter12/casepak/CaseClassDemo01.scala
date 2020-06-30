@@ -1,4 +1,4 @@
-package com.atguigu.chapter12.casepak
+package com.ljj.chapter12.casepak
 
 object CaseClassDemo01 {
   def main(args: Array[String]): Unit = {

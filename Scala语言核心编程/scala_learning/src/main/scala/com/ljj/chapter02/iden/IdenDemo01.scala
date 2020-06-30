@@ -1,4 +1,4 @@
-package com.atguigu.chapter02.iden
+package com.ljj.chapter02.iden
 
 object IdenDemo01 {
   def main(args: Array[String]): Unit = {

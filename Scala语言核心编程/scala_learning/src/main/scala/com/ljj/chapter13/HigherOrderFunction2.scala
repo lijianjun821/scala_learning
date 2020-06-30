@@ -1,4 +1,4 @@
-package com.atguigu.chapter13
+package com.ljj.chapter13
 
 object HigherOrderFunction2 {
   def main(args: Array[String]): Unit = {

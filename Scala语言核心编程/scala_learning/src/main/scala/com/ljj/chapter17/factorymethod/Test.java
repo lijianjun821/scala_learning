@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.factorymethod;
+package com.ljj.chapter17.factorymethod;
 
 public class Test {
 }

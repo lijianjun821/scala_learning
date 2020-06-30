@@ -1,4 +1,4 @@
-package com.atguigu.chapter10
+package com.ljj.chapter10
 
 object OperatorOverload {
   def main(args: Array[String]): Unit = {

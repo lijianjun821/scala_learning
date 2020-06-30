@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.abstractfactory.pizzastore.pizza
+package com.ljj.chapter17.abstractfactory.pizzastore.pizza
 
 class BJCheesePizza extends Pizza{
   override def prepare(): Unit = {

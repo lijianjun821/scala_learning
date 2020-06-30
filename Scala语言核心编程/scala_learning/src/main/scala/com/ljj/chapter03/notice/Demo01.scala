@@ -1,4 +1,4 @@
-package com.atguigu.chapter03.notice
+package com.ljj.chapter03.notice
 
 object Demo01 {
   def main(args: Array[String]): Unit = {

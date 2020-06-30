@@ -1,7 +1,7 @@
-package com.atguigu.chapter17.abstractfactory.pizzastore.order
+package com.ljj.chapter17.abstractfactory.pizzastore.order
 
-import com.atguigu.chapter17.abstractfactory.pizzastore
-import com.atguigu.chapter17.abstractfactory.pizzastore.pizza.Pizza
+import com.ljj.chapter17.abstractfactory.pizzastore
+import com.ljj.chapter17.abstractfactory.pizzastore.pizza.Pizza
 
 import scala.io.StdIn
 import scala.util.control.Breaks._

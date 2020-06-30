@@ -1,4 +1,4 @@
-package com.atguigu.chapter04.ifesle
+package com.ljj.chapter04.ifesle
 
 object Exercise01 {
   def main(args: Array[String]): Unit = {

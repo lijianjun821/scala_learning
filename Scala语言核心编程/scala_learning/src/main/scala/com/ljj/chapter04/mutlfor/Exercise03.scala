@@ -1,4 +1,4 @@
-package com.atguigu.chapter04.mutlfor
+package com.ljj.chapter04.mutlfor
 
 object Exercise03 {
   def main(args: Array[String]): Unit = {

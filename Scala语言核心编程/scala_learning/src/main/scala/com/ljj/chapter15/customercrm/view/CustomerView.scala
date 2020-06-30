@@ -1,7 +1,7 @@
-package com.atguigu.chapter15.customercrm.view
+package com.ljj.chapter15.customercrm.view
 
-import com.atguigu.chapter15.customercrm.bean.Customer
-import com.atguigu.chapter15.customercrm.service.CustomerService
+import com.ljj.chapter15.customercrm.bean.Customer
+import com.ljj.chapter15.customercrm.service.CustomerService
 
 import scala.io.StdIn
 import util.control.Breaks._

@@ -1,4 +1,4 @@
-package com.atguigu.chapter04.mycontinue
+package com.ljj.chapter04.mycontinue
 
 object ContinueDemo {
   def main(args: Array[String]): Unit = {

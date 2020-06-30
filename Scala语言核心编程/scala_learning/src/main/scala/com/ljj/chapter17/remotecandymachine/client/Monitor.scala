@@ -1,8 +1,6 @@
-package com.atguigu.chapter17.remotecandymachine.client
+package com.ljj.chapter17.remotecandymachine.client
 
-
-
-import com.atguigu.chapter17.remotecandymachine.server.CandyMachineRemote
+import com.ljj.chapter17.remotecandymachine.server.CandyMachineRemote
 
 import scala.collection.mutable.ListBuffer
 

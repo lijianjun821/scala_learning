@@ -1,4 +1,4 @@
-package com.atguigu.chapter06;
+package com.ljj.chapter06;
 
 public class Test {
 }

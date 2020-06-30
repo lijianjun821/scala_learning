@@ -1,4 +1,4 @@
-package com.atguigu.chapter05.mylazy
+package com.ljj.chapter05.mylazy
 
 object LazyDemo01 {
 

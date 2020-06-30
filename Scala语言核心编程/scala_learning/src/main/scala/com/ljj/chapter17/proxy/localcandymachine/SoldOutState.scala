@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.proxy.localcandymachine
+package com.ljj.chapter17.proxy.localcandymachine
 
 //销售完的状态
 class SoldOutState extends State {

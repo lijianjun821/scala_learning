@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.remotecandymachine.server
+package com.ljj.chapter17.remotecandymachine.server
 
 import java.rmi.{Remote, RemoteException}
 

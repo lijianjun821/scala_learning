@@ -1,7 +1,7 @@
-package com.atguigu.chapter17.decorator.coffeebar
+package com.ljj.chapter17.decorator.coffeebar
 
-import com.atguigu.chapter17.decorator.coffeebar.mycoffee.{DeCaf, LongBlack}
-import com.atguigu.chapter17.decorator.coffeebar.mydecorator.{Chocolate, Milk, NewMilk}
+import com.ljj.chapter17.decorator.coffeebar.mycoffee.{DeCaf, LongBlack}
+import com.ljj.chapter17.decorator.coffeebar.mydecorator.{Chocolate, Milk, NewMilk}
 
 
 object CoffeeBar {

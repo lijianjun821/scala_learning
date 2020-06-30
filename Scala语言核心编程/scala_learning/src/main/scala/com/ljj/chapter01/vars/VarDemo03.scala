@@ -1,4 +1,4 @@
-package com.atguigu.chapter01.vars
+package com.ljj.chapter01.vars
 
 object VarDemo03 {
   var name = "hello"

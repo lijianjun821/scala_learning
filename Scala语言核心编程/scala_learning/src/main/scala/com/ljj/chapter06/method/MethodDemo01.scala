@@ -1,4 +1,4 @@
-package com.atguigu.chapter06.method
+package com.ljj.chapter06.method
 
 object MethodDemo01 {
   def main(args: Array[String]): Unit = {

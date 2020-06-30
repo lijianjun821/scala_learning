@@ -1,4 +1,4 @@
-package com.atguigu.chapter08
+package com.ljj.chapter08
 
 object ApplyDemo01 {
   def main(args: Array[String]): Unit = {

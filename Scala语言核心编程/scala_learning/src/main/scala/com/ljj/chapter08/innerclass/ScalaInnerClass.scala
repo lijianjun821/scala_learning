@@ -1,6 +1,4 @@
-package com.atguigu.chapter08.innerclass
-
-import com.atguigu.chapter08.innerclass
+package com.ljj.chapter08.innerclass
 
 object ScalaInnerClassDemo {
   def main(args: Array[String]): Unit = {

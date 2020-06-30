@@ -1,4 +1,4 @@
-package com.atguigu.chapter13
+package com.ljj.chapter13
 
 /*
 给你一个集合val list = List(1, 2, 3, 4, "abc") ，请完成如下要求:

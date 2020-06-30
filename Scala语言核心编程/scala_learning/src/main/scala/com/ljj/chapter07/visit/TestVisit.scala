@@ -1,4 +1,4 @@
-package com.atguigu.chapter07.visit
+package com.ljj.chapter07.visit
 
 object Testvisit {
   def main(args: Array[String]): Unit = {

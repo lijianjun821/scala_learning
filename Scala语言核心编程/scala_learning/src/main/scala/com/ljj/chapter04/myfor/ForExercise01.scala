@@ -1,4 +1,4 @@
-package com.atguigu.chapter04.myfor
+package com.ljj.chapter04.myfor
 
 object ForExercise01 {
   def main(args: Array[String]): Unit = {

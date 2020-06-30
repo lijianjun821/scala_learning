@@ -1,4 +1,4 @@
-package com.atguigu.chapter12
+package com.ljj.chapter12
 
 object MatchObjectDemo2 {
   def main(args: Array[String]): Unit = {

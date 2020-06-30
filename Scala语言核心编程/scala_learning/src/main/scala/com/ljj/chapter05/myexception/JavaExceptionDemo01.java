@@ -1,4 +1,4 @@
-package com.atguigu.chapter05.myexception;
+package com.ljj.chapter05.myexception;
 
 public class JavaExceptionDemo01 {
     public static void main(String[] args) {

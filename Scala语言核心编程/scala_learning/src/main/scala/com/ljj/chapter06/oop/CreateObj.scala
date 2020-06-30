@@ -1,4 +1,4 @@
-package com.atguigu.chapter06.oop
+package com.ljj.chapter06.oop
 
 object CreateObj {
   def main(args: Array[String]): Unit = {

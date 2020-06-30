@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.simplefactory
+package com.ljj.chapter17.simplefactory
 
 class Test {
 

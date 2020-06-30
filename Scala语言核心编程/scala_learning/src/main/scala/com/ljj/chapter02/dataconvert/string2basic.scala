@@ -1,4 +1,4 @@
-package com.atguigu.chapter02.dataconvert
+package com.ljj.chapter02.dataconvert
 
 object string2basic {
   def main(args: Array[String]): Unit = {

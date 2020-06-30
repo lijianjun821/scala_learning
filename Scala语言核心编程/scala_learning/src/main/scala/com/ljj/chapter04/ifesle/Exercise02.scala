@@ -1,4 +1,4 @@
-package com.atguigu.chapter04.ifesle
+package com.ljj.chapter04.ifesle
 
 import scala.math._ // _ 表示将scala.math 的所有内容导入
 object Exercise02 {

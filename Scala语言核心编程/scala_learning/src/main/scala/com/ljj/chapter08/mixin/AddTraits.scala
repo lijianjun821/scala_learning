@@ -1,4 +1,4 @@
-package com.atguigu.chapter08.mixin
+package com.ljj.chapter08.mixin
 
 //看看混入多个特质的特点(叠加特质)
 object AddTraits {

@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.observer.observepattern
+package com.ljj.chapter17.observer.observepattern
 
 //气象局的公告板
 class CurrentConditions extends ObServer {

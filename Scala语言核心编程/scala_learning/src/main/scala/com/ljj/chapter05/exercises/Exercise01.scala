@@ -1,4 +1,4 @@
-package com.atguigu.chapter05.exercises
+package com.ljj.chapter05.exercises
 
 import scala.io.StdIn
 

@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.observer.localinternetobserver
+package com.ljj.chapter17.observer.localinternetobserver
 
 object InternetWeather {
 

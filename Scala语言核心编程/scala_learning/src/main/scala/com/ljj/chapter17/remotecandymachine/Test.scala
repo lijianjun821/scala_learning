@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.remotecandymachine
+package com.ljj.chapter17.remotecandymachine
 
 class Test {
 

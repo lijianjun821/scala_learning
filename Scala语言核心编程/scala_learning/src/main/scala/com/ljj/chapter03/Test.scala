@@ -1,4 +1,4 @@
-package com.atguigu.chapter03
+package com.ljj.chapter03
 
 class Test {
 

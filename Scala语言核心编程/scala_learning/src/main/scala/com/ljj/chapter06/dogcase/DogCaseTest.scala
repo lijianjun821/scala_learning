@@ -1,4 +1,4 @@
-package com.atguigu.chapter06.dogcase
+package com.ljj.chapter06.dogcase
 
 object DogCaseTest {
   def main(args: Array[String]): Unit = {

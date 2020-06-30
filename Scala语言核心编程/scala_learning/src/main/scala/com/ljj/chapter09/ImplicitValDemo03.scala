@@ -1,4 +1,4 @@
-package com.atguigu.chapter09
+package com.ljj.chapter09
 
 object ImplicitValDemo03 {
   def main(args: Array[String]): Unit = {

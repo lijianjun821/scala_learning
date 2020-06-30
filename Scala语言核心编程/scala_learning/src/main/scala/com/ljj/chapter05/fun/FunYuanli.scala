@@ -1,4 +1,4 @@
-package com.atguigu.chapter05.fun
+package com.ljj.chapter05.fun
 
 object FunYuanli {
   def main(args: Array[String]): Unit = {

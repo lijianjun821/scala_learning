@@ -1,4 +1,4 @@
-package com.atguigu.chapter08.extendtrait
+package com.ljj.chapter08.extendtrait
 
 object ExtendTraitDemo01 {
   def main(args: Array[String]): Unit = {

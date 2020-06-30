@@ -1,4 +1,4 @@
-package com.atguigu.chapter08.homework
+package com.ljj.chapter08.homework
 
 object SingleTonDemo {
   //实现单例

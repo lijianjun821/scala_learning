@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.dyn
+package com.ljj.chapter17.dyn
 
 import java.lang.reflect.{InvocationHandler, Method}
 

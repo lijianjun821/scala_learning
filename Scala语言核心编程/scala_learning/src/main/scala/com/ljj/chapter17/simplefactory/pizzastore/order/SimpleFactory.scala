@@ -1,6 +1,6 @@
-package com.atguigu.chapter17.simplefactory.pizzastore.order
+package com.ljj.chapter17.simplefactory.pizzastore.order
 
-import com.atguigu.chapter17.simplefactory.pizzastore.pizza.{CheesePizza, GreekPizza, PepperPizza, Pizza}
+import com.ljj.chapter17.simplefactory.pizzastore.pizza.{CheesePizza, GreekPizza, PepperPizza, Pizza}
 
 object SimpleFactory {
 

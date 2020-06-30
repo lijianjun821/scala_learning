@@ -1,5 +1,4 @@
-package com.atguigu.chapter17.dyn
-
+package com.ljj.chapter17.dyn
 
 //这个是要被调用的对象.
 class PersonBeanImpl extends PersonBean {

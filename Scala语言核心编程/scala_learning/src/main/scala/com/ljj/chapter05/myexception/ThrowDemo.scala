@@ -1,4 +1,4 @@
-package com.atguigu.chapter05.myexception
+package com.ljj.chapter05.myexception
 
 object ThrowDemo {
   def main(args: Array[String]): Unit = {

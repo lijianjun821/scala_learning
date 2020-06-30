@@ -1,4 +1,4 @@
-package com.atguigu.chapter17
+package com.ljj.chapter17
 
 class Test {
   def main(args: Array[String]): Unit = {

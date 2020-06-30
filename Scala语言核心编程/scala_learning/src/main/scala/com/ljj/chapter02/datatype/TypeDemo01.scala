@@ -1,4 +1,4 @@
-package com.atguigu.chapter02.datatype
+package com.ljj.chapter02.datatype
 
 object TypeDemo01 {
   def main(args: Array[String]): Unit = {

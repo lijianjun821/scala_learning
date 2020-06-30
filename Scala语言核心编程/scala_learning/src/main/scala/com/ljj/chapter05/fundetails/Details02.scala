@@ -1,4 +1,4 @@
-package com.atguigu.chapter05.fundetails
+package com.ljj.chapter05.fundetails
 
 object Details02 {
   def main(args: Array[String]): Unit = {

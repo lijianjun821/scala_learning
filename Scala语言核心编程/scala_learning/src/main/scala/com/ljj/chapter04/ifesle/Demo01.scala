@@ -1,4 +1,4 @@
-package com.atguigu.chapter04.ifesle
+package com.ljj.chapter04.ifesle
 
 //import scala.io.StdIn //单独的引入一个StdIn
 import scala.io._ // _表示将 scala.io 包的所有内容一起引入

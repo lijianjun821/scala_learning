@@ -1,4 +1,4 @@
-package com.atguigu.chapter10;
+package com.ljj.chapter10;
 
 public class Test {
     public static void main(String[] args) {

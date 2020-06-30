@@ -1,4 +1,4 @@
-package com.atguigu.chapter17.simplefactory.pizzastore.pizza
+package com.ljj.chapter17.simplefactory.pizzastore.pizza
 
 abstract class Pizza {
 
